@@ -1,1 +1,1 @@
-# angular-standalone-components-main
+# angular-standalone-components
